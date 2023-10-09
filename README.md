@@ -11,7 +11,7 @@ Welcome to MoveMent, the app that's dedicated to your physical and mental well-b
    - **Chores:** Offer your skills, like wood chopping, to earn extra income while helping others.
    - **Activities:** Join events like hiking to meet new friends and stay active with like-minded individuals.
      
-3. **Location-Based Task Discovery:** Use our interactive map to discover tasks within your preferred radius. Find opportunities that match your interests and location.
+3. **Location-Based Task Discovery:** Use our interactive map to discover tasks within your preferred radius. Find opportunities that match your interests and location. Your real-time location is default and recommended in our app.
 
 4. **Track Your Progress:** Keep tabs on your task history to see your completed and ongoing activities.
 
@@ -43,6 +43,9 @@ MoveMent = verb **to move** + **mental health awareness**
 
 ### UI Design:
 <a href="https://www.figma.com/file/6Tj3ULiJ4ITVhyKaRpEAkT/hackaton?type=design&node-id=0%3A1&mode=design&t=9BctyRlHcFzAOWTW-1">Figma file</a>
+![movement-1](https://github.com/CroAnna/MoveMent/assets/90924342/ca97374e-aaee-4267-89f7-c5ea012ea4e3)
+![movement-2](https://github.com/CroAnna/MoveMent/assets/90924342/d6c49293-f51e-4562-a150-a4e368458869)
+![movement-3](https://github.com/CroAnna/MoveMent/assets/90924342/f3aceb40-566b-4df1-a6a3-3721fed7531c)
 
 ### Tech stack:
 + Frontend: React
@@ -59,3 +62,34 @@ MoveMent = verb **to move** + **mental health awareness**
 ![NaN_prezentacija-6](https://github.com/CroAnna/MoveMent/assets/90924342/7b868b75-4b3c-457b-90bd-bda9faf282d9)
 ![NaN_prezentacija-7](https://github.com/CroAnna/MoveMent/assets/90924342/89a2bc27-3068-481a-b6b1-f5559f2ef47e)
 ![NaN_prezentacija-8](https://github.com/CroAnna/MoveMent/assets/90924342/1ddf8755-9aa3-4621-8da9-4b927d107780)
+
+### Installation - how to run the code?
+
+To start this project on your PC locally, follow these steps:
+
+ + Clone the repository:
+`git clone https://github.com/CroAnna/MoveMent.git`
+
+## Frontend
+
+ + In terminal, navigate to the Vue directory:
+`cd app`
+   
++ Install all dependencies: `npm install`
+   
++ Start the application locally on port 5173: `npm run dev`
+  
++ Recommended mobile view (mobile-first app): Samsung Galaxy S8+
+
+## Backend
+   
++ In new terminal, navigate to the api directory: `cd api`
+  
++ Install all dependencies: `npm install`
+  
++ Start the server locally on port 8000: `npm run start:dev`
+
++ Run the database query: open `config/db.sql` -> `CTRL + A` -> Right click -> `Run Selected Query` -> select `api\database.db`
+
+
+  
