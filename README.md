@@ -20,9 +20,7 @@ Experience the holistic wellness approach with MoveMent – not just an app, but
 
 <p>Watch the video:</p>
 
-<a href="https://youtu.be/Pd5PKW4IKP8">
-  <img src="https://github.com/CroAnna/MoveMent/assets/90924342/29cc5c81-9839-4070-b0e2-47fdcba02227" style="width:800px" />
-</a>
+[<img src="https://img.youtube.com/vi/Pd5PKW4IKP8/hqdefault.jpg"/>](https://youtu.be/Pd5PKW4IKP8)
 
 </p>
 
