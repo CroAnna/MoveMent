@@ -16,7 +16,7 @@ Welcome to MoveMent, the app that's dedicated to your physical and mental well-b
 4. **Track Your Progress:** Keep tabs on your task history to see your completed and ongoing activities.
 
 
-Experience the holistic wellness approach with MoveMent – not just an app, but a community that supports your journey to a healthier, happier you."
+Experience the holistic wellness approach with MoveMent – not just an app, but a community that supports your journey to a healthier, happier you.
 
 <p>Watch the video:</p>
 
